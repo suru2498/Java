@@ -1,0 +1,3 @@
+/* 
+Ensures single instance of a class
+*/

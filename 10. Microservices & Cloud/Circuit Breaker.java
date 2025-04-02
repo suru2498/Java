@@ -1,0 +1,3 @@
+/* 
+Prevents cascading failures in microservices.
+*/

@@ -1,0 +1,3 @@
+/* 
+Improves performance by storing frequently accessed data in memory.
+*/

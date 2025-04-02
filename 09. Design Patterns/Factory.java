@@ -1,0 +1,3 @@
+/* 
+Creates objects without exposing instantiation logic
+*/

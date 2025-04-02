@@ -1,0 +1,3 @@
+/* 
+Clones existing objects
+*/
